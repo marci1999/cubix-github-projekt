@@ -1,1 +1,7 @@
-green - @ Added Tomi
+green
+red
+blue
+orange
+greeg
+yellow
+black
